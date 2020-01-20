@@ -7,7 +7,6 @@ PCB Business Card with NFC
 3.板载LED可在卡片被读写时点亮
 
 
-开发环境：
 EDA：Altium Designer 20
                  
 
