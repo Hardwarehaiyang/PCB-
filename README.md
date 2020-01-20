@@ -8,5 +8,11 @@ PCB Business Card with NFC
 
 
 EDA：Altium Designer 20
+
+首先展示下效果
+设计图：
+
+
+当PCB板厂加工完之后是
                  
 
