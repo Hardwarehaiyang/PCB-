@@ -19,6 +19,8 @@ EDA：Altium Designer 20
 
 当PCB板厂加工完之后是这样的
 
+![image](https://github.com/Hardwarehaiyang/PCB-/blob/master/Images/%E7%82%B9%E4%BA%AE%E5%AE%9E%E7%89%A9.jpg)
+
 
                  
 
